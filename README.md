@@ -77,5 +77,9 @@ If you just want an idea of how my pipeline works, look only at any one notebook
 Also, each notebook saves results into excel sheets as a table of accuracies and F1 scores, showing the scores for each  (Dimensionality reduction mode, ML model) pair.
 
 
+# Extra Comments
+
+- I also have a couple MATLAB codes that I used as help/inspiration (?) for the feature extraction functions
+- The notebooks are sometimes needlessly detailed... (as was asked of me).
 
  
