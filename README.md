@@ -62,7 +62,7 @@ I also create a 'DataGenerator.py'. Essentially loads and combines data from dif
 ## Step 2: Make Pipelines, Run Combinations, Get Accuracies
 
 Pipeline : 
-![Alt text](/img/pipeline.png)
+![Alt text](/img/PipelineW.png)
 
 Made a ton of Custom Pipelines, that was fun (sklearn is kinda amazing, but so am I). 
 
