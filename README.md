@@ -79,7 +79,6 @@ Also, each notebook saves results into excel sheets as a table of accuracies and
 
 # Extra Comments
 
-- I also have a couple MATLAB codes that I used as help/inspiration (?) for the feature extraction functions
-- The notebooks are sometimes needlessly detailed... (as was asked of me).
+- I also have a couple MATLAB codes that I used as help/inspiration (?) for the feature extraction functions.
 
  
