@@ -54,7 +54,7 @@ Essentially, I decomposed the signal, extracted all the features and saved it as
 
 nFeatures = 18 for each frequency band <br>
 nFeatures for each trial = 32 (electrode channels) x 5(Freq bands) x 18 features
-                         <br> <b>=  2880 features per trial per patient
+                         <br> <b>=  2880 features per trial per patient </b>
 
 
 I also create a 'DataGenerator.py'. Essentially loads and combines data from different subjects as required by the 'splits' based on patient IDs or male/female tags etc. 
@@ -77,8 +77,9 @@ If you just want an idea of how my pipeline works, look only at any one notebook
 Also, each notebook saves results into excel sheets as a table of accuracies and F1 scores, showing the scores for each  (Dimensionality reduction mode, ML model) pair.
 
 
-# Extra Comments
+# Extra Comments (Ignore)
 
 - I also have a couple MATLAB codes that I used as help/inspiration (?) for the feature extraction functions.
+- Should I do this full-time? Take MATLAB codes and put them into python, cuz everyone should move away from MATLAB already, with its 1-indexing. Despicable.
 
  
